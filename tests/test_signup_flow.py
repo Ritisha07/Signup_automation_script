@@ -21,8 +21,8 @@ def test_full_signup_flow(driver):
     signup_detail.fill_signup_details(
         fname="Rpp",
         lname="sss",
-        email="viyiy96545@cucadas.com",
-        phone="9800011456",
+        email="xarifid260@icousd.com",
+        phone="9800223456",
         password="Ritisha01#",
         confirm_password="Ritisha01#"
         
